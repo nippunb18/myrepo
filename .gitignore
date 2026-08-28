@@ -40,3 +40,4 @@ build/
 
 *.log
 secrets.properties
+app2.txt
